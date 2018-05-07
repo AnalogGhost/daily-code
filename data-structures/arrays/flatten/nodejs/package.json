@@ -1,0 +1,21 @@
+{
+  "name": "flatten-nodejs",
+  "version": "1.0.0",
+  "description": "Flatten Array Method written in Node.js",
+  "main": "src/flatten.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "Flatten",
+    "Node",
+    "Array",
+    "Data Structures"
+  ],
+  "author": "Mathew Brown",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.1.1"
+  }
+}
